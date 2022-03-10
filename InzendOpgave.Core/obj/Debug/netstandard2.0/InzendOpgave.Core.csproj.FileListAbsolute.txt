@@ -1,0 +1,10 @@
+C:\Users\Joffrey\source\repos\InzendOpgaveApp\InzendOpgave.Core\bin\Debug\netstandard2.0\InzendOpgave.Core.deps.json
+C:\Users\Joffrey\source\repos\InzendOpgaveApp\InzendOpgave.Core\bin\Debug\netstandard2.0\InzendOpgave.Core.dll
+C:\Users\Joffrey\source\repos\InzendOpgaveApp\InzendOpgave.Core\bin\Debug\netstandard2.0\InzendOpgave.Core.pdb
+C:\Users\Joffrey\source\repos\InzendOpgaveApp\InzendOpgave.Core\obj\Debug\netstandard2.0\InzendOpgave.Core.csproj.AssemblyReference.cache
+C:\Users\Joffrey\source\repos\InzendOpgaveApp\InzendOpgave.Core\obj\Debug\netstandard2.0\InzendOpgave.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joffrey\source\repos\InzendOpgaveApp\InzendOpgave.Core\obj\Debug\netstandard2.0\InzendOpgave.Core.AssemblyInfoInputs.cache
+C:\Users\Joffrey\source\repos\InzendOpgaveApp\InzendOpgave.Core\obj\Debug\netstandard2.0\InzendOpgave.Core.AssemblyInfo.cs
+C:\Users\Joffrey\source\repos\InzendOpgaveApp\InzendOpgave.Core\obj\Debug\netstandard2.0\InzendOpgave.Core.csproj.CoreCompileInputs.cache
+C:\Users\Joffrey\source\repos\InzendOpgaveApp\InzendOpgave.Core\obj\Debug\netstandard2.0\InzendOpgave.Core.dll
+C:\Users\Joffrey\source\repos\InzendOpgaveApp\InzendOpgave.Core\obj\Debug\netstandard2.0\InzendOpgave.Core.pdb
