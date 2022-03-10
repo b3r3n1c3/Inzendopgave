@@ -9297,18 +9297,18 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Joffrey\\.nuget\\packages\\": {},
+    "C:\\Users\\Ned J\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joffrey\\source\\repos\\InzendOpgaveApp\\InzendOpgave\\InzendOpgave.csproj",
+      "projectUniqueName": "C:\\Users\\Ned J\\Documents\\GitHub\\Inzendopgave\\InzendOpgave\\InzendOpgave.csproj",
       "projectName": "InzendOpgave",
-      "projectPath": "C:\\Users\\Joffrey\\source\\repos\\InzendOpgaveApp\\InzendOpgave\\InzendOpgave.csproj",
-      "packagesPath": "C:\\Users\\Joffrey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joffrey\\source\\repos\\InzendOpgaveApp\\InzendOpgave\\obj\\",
+      "projectPath": "C:\\Users\\Ned J\\Documents\\GitHub\\Inzendopgave\\InzendOpgave\\InzendOpgave.csproj",
+      "packagesPath": "C:\\Users\\Ned J\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ned J\\Documents\\GitHub\\Inzendopgave\\InzendOpgave\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -9316,7 +9316,7 @@
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Joffrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ned J\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -9330,8 +9330,8 @@
       "frameworks": {
         "uap10.0.18362": {
           "projectReferences": {
-            "C:\\Users\\Joffrey\\source\\repos\\InzendOpgaveApp\\InzendOpgave.Core\\InzendOpgave.Core.csproj": {
-              "projectPath": "C:\\Users\\Joffrey\\source\\repos\\InzendOpgaveApp\\InzendOpgave.Core\\InzendOpgave.Core.csproj"
+            "C:\\Users\\Ned J\\Documents\\GitHub\\Inzendopgave\\InzendOpgave.Core\\InzendOpgave.Core.csproj": {
+              "projectPath": "C:\\Users\\Ned J\\Documents\\GitHub\\Inzendopgave\\InzendOpgave.Core\\InzendOpgave.Core.csproj"
             }
           }
         }
