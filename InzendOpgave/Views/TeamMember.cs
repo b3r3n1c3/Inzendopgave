@@ -18,7 +18,6 @@ namespace InzendOpgave.Views
             Name = memberName;
             Age = memberAge;
             InGameName = memberInGameName;
-            // HELP IK MOET JANKEN 
         }
     }
 
