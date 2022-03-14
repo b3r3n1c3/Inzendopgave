@@ -17,7 +17,8 @@ namespace InzendOpgave.Views
         {
             Name = memberName;
             Age = memberAge;
-            InGameName = memberInGameName; 
+            InGameName = memberInGameName;
+            // HELP IK MOET JANKEN 
         }
     }
 
