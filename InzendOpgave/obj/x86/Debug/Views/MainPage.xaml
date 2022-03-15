@@ -6,12 +6,12 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     Style="{StaticResource PageStyle}"
     mc:Ignorable="d">
-    <Grid x:Name="ContentArea" Margin="{StaticResource MediumLeftRightMargin}">
+    <Grid x:ConnectionId='2' x:Name="ContentArea" Margin="{StaticResource MediumLeftRightMargin}">
         <Grid
             Background="{ThemeResource SystemControlPageBackgroundChromeLowBrush}" Margin="10,10,-10,-10">
             <TextBlock HorizontalAlignment="Left" Height="161" Margin="442,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="539" FontSize="72"><Run Text="Team"/><Run Text="s"/></TextBlock>
-            <Button x:Name="GoToAdd" Content="Add" Height="99" Margin="132,889,0,0" VerticalAlignment="Top" Width="237" Click="Button_Click" FontSize="48"/>
-            <TextBlock HorizontalAlignment="Left" Margin="442,200,0,0" Text="{Binding _Team[0].TeamName}" TextWrapping="Wrap" VerticalAlignment="Top" Height="250" Width="450" FontSize="36" SelectionChanged="TextBlock_SelectionChanged"/>
+            <Button x:ConnectionId='3' x:Name="GoToAdd" Content="Add" Height="99" Margin="132,889,0,0" VerticalAlignment="Top" Width="237"                      FontSize="48"/>
+            <TextBlock x:ConnectionId='4' HorizontalAlignment="Left" Margin="442,200,0,0" Text="{Binding _Team[0].TeamName}" TextWrapping="Wrap" VerticalAlignment="Top" Height="250" Width="450" FontSize="36"                                              />
             <TextBlock HorizontalAlignment="Left" Margin="442,759,0,0" Text="{Binding _Team[1].TeamName}" TextWrapping="Wrap" VerticalAlignment="Top" Height="250" Width="450" FontSize="36"/>
             <TextBlock HorizontalAlignment="Left" Margin="442,465,0,0" Text="{Binding _Team[2].TeamName}" TextWrapping="Wrap" VerticalAlignment="Top" Height="250" Width="450" FontSize="36"/>
             <Button Content="Team1" Margin="1388,200,0,0" VerticalAlignment="Top" Height="133" Width="321"/>
@@ -24,3 +24,4 @@
         </Grid>
     </Grid>
 </Page>
+

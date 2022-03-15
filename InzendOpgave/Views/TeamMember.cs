@@ -10,7 +10,7 @@ namespace InzendOpgave.Views
     {
         string Name;
         int Age;
-       public  string InGameName;
+       public string InGameName;
 
 
     public TeamMember(string memberName, int memberAge, string memberInGameName)
