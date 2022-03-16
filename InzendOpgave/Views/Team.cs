@@ -15,8 +15,6 @@ namespace InzendOpgave.Views
         {
             TeamName = teamName;
             StartYear = teamYear;
-
-
         }
  //This is what get does
         public string getTeamName()

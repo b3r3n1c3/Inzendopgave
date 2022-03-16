@@ -13,6 +13,7 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
+
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=234238
 
 namespace InzendOpgave.Views
@@ -24,7 +25,12 @@ namespace InzendOpgave.Views
     {
         public AddTeammember()
         {
+            TeamMember Tenz = new TeamMember("Tyson Ngo", 20, "TenZ");
+            TeamMember Shroud = new TeamMember("Michael Grzesiek", 27, "Shroud");
+
             this.InitializeComponent();
+            TB1.Text = Tenz.InGameName;
+            TB2.Text = Shroud.Name;
         }
 
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)

@@ -37,10 +37,10 @@
       <RootProperty Name="TextTrimming" />
       <RootProperty Name="TextWrapping" />
       <RootProperty Name="HorizontalAlignment" />
-      <RootProperty Name="Height" />
       <RootProperty Name="Margin" />
       <RootProperty Name="Text" />
       <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Height" />
       <RootProperty Name="Width" />
       <RootProperty Name="Inlines" />
       <RootProperty Name="Style" />
@@ -58,19 +58,6 @@
     <RootType FullName="Windows.UI.Xaml.Controls.Image">
       <RootProperty Name="Margin" />
       <RootProperty Name="Source" />
-    </RootType>
-    <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
-      <RootProperty Name="HorizontalAlignment" />
-      <RootProperty Name="Margin" />
-      <RootProperty Name="Text" />
-      <RootProperty Name="TextWrapping" />
-      <RootProperty Name="VerticalAlignment" />
-      <RootProperty Name="Height" />
-      <RootProperty Name="Width" />
-      <RootProperty Name="FontSize" />
-      <RootProperty Name="RenderTransformOrigin" />
-      <RootProperty Name="PlaceholderText" />
-      <RootEvent Name="TextChanged" />
     </RootType>
     <RootType FullName="InzendOpgave.Views.AddTeammember" />
     <RootType FullName="Windows.UI.Xaml.Controls.Button">

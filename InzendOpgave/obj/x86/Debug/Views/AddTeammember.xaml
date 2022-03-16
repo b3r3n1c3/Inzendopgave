@@ -10,9 +10,8 @@
 
     <Grid>
         <Image Margin="0,-44,1773,938" Source="/Assets/sea-otter-rosa-tr18-0726.jpg"/>
-        <TextBox x:ConnectionId='2' x:Name="PlayerName" HorizontalAlignment="Left" Margin="908,273,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top"                                   Height="64" Width="287" FontSize="48" RenderTransformOrigin="0.895,0.171" PlaceholderText="Name"/>
-        <TextBlock x:ConnectionId='3' HorizontalAlignment="Left" Height="62" Margin="177,34,0,0" Text="Enter the following information:" TextWrapping="Wrap" VerticalAlignment="Top" Width="715"                                               FontSize="48"/>
-        <TextBlock HorizontalAlignment="Left" Margin="254,273,0,0" Text=" Name:" TextWrapping="Wrap" VerticalAlignment="Top" Height="72" Width="446" FontSize="48"/>
+        <TextBlock x:ConnectionId='2' x:Name="TB1" HorizontalAlignment="Left" Margin="327,207,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top" Height="52" Width="301"/>
+        <TextBlock x:ConnectionId='3' x:Name="TB2" HorizontalAlignment="Left" Margin="327,402,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="73" Width="208"/>
 
     </Grid>
 

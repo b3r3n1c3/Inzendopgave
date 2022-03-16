@@ -18,6 +18,8 @@ namespace InzendOpgave.Views
             InitializeComponent();
 
             DataContext = Teams.GetTeams();
+
+
         }
 
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)

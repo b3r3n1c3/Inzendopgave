@@ -8,10 +8,9 @@ namespace InzendOpgave.Views
 {
     class TeamMember
     {
-        string Name;
-        int Age;
+       public string Name;
+       public  int Age;
        public string InGameName;
-
 
     public TeamMember(string memberName, int memberAge, string memberInGameName)
         {
