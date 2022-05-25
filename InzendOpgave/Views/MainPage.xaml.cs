@@ -37,5 +37,15 @@ namespace InzendOpgave.Views
         {
 
         }
+
+        private void GridView_SelectionChanged()
+        {
+
+        }
+
+        private void GridView_SelectionChanged_1(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }
